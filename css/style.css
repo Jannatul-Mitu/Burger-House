@@ -93,15 +93,6 @@ a:hover {
     transition: all 0.25s linear;
 }
 
-/*.menu-list ul li a:hover{
-	color: #663d00;
-	font-size: 20px;
-	font-weight: 500;
-	color:crimson;
-	letter-spacing: 5px;
-	transition: all 0.2s ease-in-out;
-	border-bottom: 1px ridge red;
-}*/
 .banner {
     height: 70vh;
     display: table-cell;
@@ -241,15 +232,6 @@ a:hover {
     transition: all 0.25s ease-in-out;
 }
 
-.but-tasty button:hover {
-    background-color: #ff1b6b;
-    border: 1px solid #eee;
-
-}
-
-/*.but-tasty button:focus{
-	outline: none;
-}*/
 .plain-text {
     margin: 0 auto;
     text-align: center;
@@ -313,34 +295,6 @@ a:hover {
     margin-bottom: 35px;
 }
 
-/*.item button{
-	padding: 20px 38px 14px 38px;
-	background-color: #ffc045;
-	color: white;
-	font-family: 'Alfa Slab One', cursive;
-	font-weight: 400;
-	font-size: 17px;
-	letter-spacing: 2px;
-	text-transform: uppercase;
-	 border: 1px solid rgb(20, 219, 20);
-	transition: 0.25s linear;
-	margin-bottom: 10px;
-}
-.item button:hover{
-	background-color: #ffc800;
-	color: #cc0000;
-	border: 2px inset orange;
-	border-radius: 15px;
-	transition:	0.15s ease-out;
-	font-size: 19px;
-	cursor: pointer;
-	transform: scale3d(1.15, 1.15, 1.15);
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.33);
-}	
-.item button:focus{
-	outline: none;
-	border: none;
-}*/
 .gallery:hover {
     background: #caf2ef;
 }
@@ -628,9 +582,6 @@ a:hover {
     color: #fff;
 
 }
-
-
-
 
 .button-1 {
     position: relative;
